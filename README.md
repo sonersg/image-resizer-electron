@@ -4,7 +4,7 @@ date:11:21am, Saturday, September 28, 2024-place: ihd, studying room
 
 ```bash
 npm init
-npm i electron resize-image toastify-js
+npm i electron resize-img toastify-js
 touch main.js
 npm start
 ```
